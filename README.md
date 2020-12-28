@@ -1,5 +1,5 @@
 # Learn-Triangles-vanillajs
- 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00/Learn-Triangles-vanillajs)
 
 Let your imagination run wild for this one. Some ideas which you can do. Create a triangle quiz. 
 
