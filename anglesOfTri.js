@@ -20,7 +20,7 @@ function formTriangleHandler(e){
     })
 
     if(sum ===180){
-        outputDiv.innerText = "Yuhu! these angles can make a triangle";
+        outputDiv.innerText = "Yipeee! these angles can make a triangle";
     }
     else{
         outputDiv.innerText = "Oops! these angles cannot make a triangle";
